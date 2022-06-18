@@ -8,7 +8,7 @@
 
 ​		Conteúdo versado pelo professor Walisson Alves Pereira. 
 
-[](https://www.flaticon.com/free-icon/sql-server_2772165)
+<img src="sql.png"> 
 
 
 
