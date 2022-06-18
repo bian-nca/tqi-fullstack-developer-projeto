@@ -8,7 +8,7 @@
 
 ​		Conteúdo versado pelo professor Walisson Alves Pereira. 
 
-  <img src="sql.png"
+  <img src="logomysql.png"
         width="100"
      height="50"> 
 
