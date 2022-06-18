@@ -8,9 +8,9 @@
 
 ​		Conteúdo versado pelo professor Walisson Alves Pereira. 
 
-  <img src="logomysql.png"
-        width="100"
-     height="50"> 
+   <img src="logomysql.png"
+        width="300"
+     height="150"> 
 
 
 
