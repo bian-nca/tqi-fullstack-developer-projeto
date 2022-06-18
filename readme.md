@@ -7,6 +7,7 @@
 ​		Durante o primeiro módulo do bootcamp, TQI - Fullstack Developer, foi requisitado como projeto o primeiro repositório no github. Para isso, irei utilizar como meu primeiro repositório os conhecimentos que foram passado durante meu terceiro período de faculdade em ADS, dentro do conteúdo "Modelagem e Desenvolvimento em Banco de Dados". 
 
 ​		Conteúdo versado pelo professor Walisson Alves Pereira. 
+​ OBS: A maioria dos bancos de dados criados durante o conteúdo passado foi feito pelo professor!!! Apenas as atividades que eu desenvolvi sozinha, ou seja, as respostas das questões!
 
    <img src="logomysql.png"
         width="300"
